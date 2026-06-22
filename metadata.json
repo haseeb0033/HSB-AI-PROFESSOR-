@@ -1,0 +1,6 @@
+{
+  "name": "HSB Professor AI",
+  "description": "An intelligent, interactive AI professor to teach deeply with structured lessons, quizes, study plans and notes explanation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
